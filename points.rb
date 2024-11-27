@@ -18,3 +18,5 @@ print "["
 (0...points.length-1).each{|x| print points[x].to_s + ", "}
 print points[points.length-1]
 print "]\n"
+
+# significant points: (2.5, 101), (3.8, 100.8)
